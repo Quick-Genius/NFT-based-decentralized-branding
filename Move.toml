@@ -1,0 +1,16 @@
+[package]
+name = "NFT-based-decentralized-branding"
+version = "1.0.0"
+authors = []
+
+[addresses]
+nft_branding = "0x231fddb042a9720f7554ab963f16f8e4e630f8befddae0946a275ab306ac82af"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
