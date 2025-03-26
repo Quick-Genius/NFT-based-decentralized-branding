@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-nft_branding = "0x231fddb042a9720f7554ab963f16f8e4e630f8befddae0946a275ab306ac82af"
+MyModule= "231fddb042a9720f7554ab963f16f8e4e630f8befddae0946a275ab306ac82af"
 
 [dev-addresses]
 
